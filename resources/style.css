@@ -4,11 +4,20 @@ body {
 }
 
 .banner {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url('/Users/shaialexander/Dropbox/DevProjects/broadway/resources/images/the-flatiron-building.png');
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+h4 {
+
 }
